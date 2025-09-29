@@ -1,6 +1,6 @@
 /*
  * Problem: Subtract the Product and Sum of Digits of an Integer
- * Type: Math
+ * Type: Math / Integer
  * Link: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
  * Time Complexity: O(logN) // N is the number, logN digits processed
  * Space Complexity: O(1)

@@ -1,6 +1,6 @@
 /*
  * Problem: Difference Between Sum of Non-Divisible and Divisible Numbers
- * Type: Math / Simulation
+ * Type: Integer/ Maths
  * Link: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
  * Time Complexity: O(n) // Looping from 1 to n
  * Space Complexity: O(1)

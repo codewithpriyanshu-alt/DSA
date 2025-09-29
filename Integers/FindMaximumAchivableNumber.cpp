@@ -1,6 +1,6 @@
 /*
  * Problem: Maximum Achievable Number
- * Type: Math
+ * Type: Math / Integer
  * Link: https://leetcode.com/problems/maximum-achievable-number/
  * Time Complexity: O(1)
  * Space Complexity: O(1)
