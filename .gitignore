@@ -7,7 +7,7 @@
 *.o
 *.out
 *.exe
-*.gitignore
+.gitignore
 
 # IDE / Editor files
 .vscode/
