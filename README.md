@@ -21,10 +21,13 @@ It’s my journey of mastering DSA and preparing for **FAANG / Product-based com
 ## 🗂 Topics Covered  
 🔹 Arrays  
 🔹 Strings   
+🔹 Integers   
+🔹 Patterns   
 🔹 Linked List   
 🔹 Recursion & Backtracking  
 🔹 Dynamic Programming (DP)   
 🔹 Graphs & Trees  
-🔹 Searching & Sorting  
+🔹 Searching   
+🔹 Sorting   
 🔹 Stack   
 🔹 Queue  
