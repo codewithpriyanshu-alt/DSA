@@ -22,7 +22,7 @@ It’s my journey of mastering DSA and preparing for **FAANG / Product-based com
 🔹 Arrays  
 🔹 Strings   
 🔹 Integers   
-🔹 Patterns   
+🔹 Patterns    
 🔹 Linked List   
 🔹 Recursion & Backtracking  
 🔹 Dynamic Programming (DP)   
@@ -30,4 +30,4 @@ It’s my journey of mastering DSA and preparing for **FAANG / Product-based com
 🔹 Searching   
 🔹 Sorting   
 🔹 Stack   
-🔹 Queue  
+🔹 Queue   
