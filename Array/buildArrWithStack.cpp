@@ -2,7 +2,7 @@
 ------------------------------------------------------------
 📝 Problem: Build Array With Stack Operations
 📌 Type: Simulation / Arrays
-🔗 Link: No Link (DSA quest question)
+🔗 Link: https://leetcode.com/problems/build-an-array-with-stack-operations/
 
 ⏱️ Time Complexity: O(n)
 📦 Space Complexity: O(n)
